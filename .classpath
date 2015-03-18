@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="nerdschool/7/Pakkesporing/src/main/java"/>
+	<classpathentry kind="src" path="nerdschool/7/Pakkesporing/src/test/java"/>
+	<classpathentry kind="src" path="nerdschool/7/uglycode/src/main/java"/>
+	<classpathentry kind="src" path="nerdschool/7/uglycode/src/test/java"/>
+	<classpathentry kind="src" path="nerdschool/8/alarm2.0/src/main/java"/>
+	<classpathentry kind="src" path="nerdschool/9/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
